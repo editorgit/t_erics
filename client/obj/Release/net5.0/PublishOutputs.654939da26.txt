@@ -1,0 +1,4 @@
+/Users/alexbu/dev/test_tasks/t_ericsson/client/bin/Release/net5.0/publish/starter.dll
+/Users/alexbu/dev/test_tasks/t_ericsson/client/bin/Release/net5.0/publish/starter.deps.json
+/Users/alexbu/dev/test_tasks/t_ericsson/client/bin/Release/net5.0/publish/starter.runtimeconfig.json
+/Users/alexbu/dev/test_tasks/t_ericsson/client/bin/Release/net5.0/publish/starter.pdb

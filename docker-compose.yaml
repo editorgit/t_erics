@@ -1,0 +1,21 @@
+version: '3.7'
+
+services:
+
+  redis:
+    image: redis
+
+  client:
+    build: client/
+    container_name: client
+    restart: always
+
+  server:
+    build: server/
+    container_name: server
+    restart: always
+
+
+networks:
+  default:
+    external: false

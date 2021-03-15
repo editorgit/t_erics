@@ -1,0 +1,15 @@
+/Users/alexbu/dev/test_tasks/t_ericsson/client/bin/Release/net5.0/starter.deps.json
+/Users/alexbu/dev/test_tasks/t_ericsson/client/bin/Release/net5.0/starter.runtimeconfig.json
+/Users/alexbu/dev/test_tasks/t_ericsson/client/bin/Release/net5.0/starter.runtimeconfig.dev.json
+/Users/alexbu/dev/test_tasks/t_ericsson/client/bin/Release/net5.0/starter.dll
+/Users/alexbu/dev/test_tasks/t_ericsson/client/bin/Release/net5.0/ref/starter.dll
+/Users/alexbu/dev/test_tasks/t_ericsson/client/bin/Release/net5.0/starter.pdb
+/Users/alexbu/dev/test_tasks/t_ericsson/client/obj/Release/net5.0/starter.csprojAssemblyReference.cache
+/Users/alexbu/dev/test_tasks/t_ericsson/client/obj/Release/net5.0/starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexbu/dev/test_tasks/t_ericsson/client/obj/Release/net5.0/starter.AssemblyInfoInputs.cache
+/Users/alexbu/dev/test_tasks/t_ericsson/client/obj/Release/net5.0/starter.AssemblyInfo.cs
+/Users/alexbu/dev/test_tasks/t_ericsson/client/obj/Release/net5.0/starter.csproj.CoreCompileInputs.cache
+/Users/alexbu/dev/test_tasks/t_ericsson/client/obj/Release/net5.0/starter.dll
+/Users/alexbu/dev/test_tasks/t_ericsson/client/obj/Release/net5.0/ref/starter.dll
+/Users/alexbu/dev/test_tasks/t_ericsson/client/obj/Release/net5.0/starter.pdb
+/Users/alexbu/dev/test_tasks/t_ericsson/client/obj/Release/net5.0/starter.genruntimeconfig.cache
